@@ -1,0 +1,508 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Navigate to Subscriptions link",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "Navigate to the link",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 7,
+        "name": "Validate the type of Subscription for Saudi country",
+        "description": "",
+        "id": "validating-subscriptions-type-\u0026-price-and-currency-for-all-countries-(sa-/-kuwait-and-baharin);validate-the-type-of-subscription-for-saudi-country",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 8,
+            "name": "the user selects the Saudi country",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "Subscription Plans should be displayed",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "Saudi Subscriptions Should have types",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "Navigate to Subscriptions link",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "Navigate to the link",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "Validate the type of Subscription for Bahrain country",
+        "description": "",
+        "id": "validating-subscriptions-type-\u0026-price-and-currency-for-all-countries-(sa-/-kuwait-and-baharin);validate-the-type-of-subscription-for-bahrain-country",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "the user selects the Bahrain country",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 14,
+            "name": "Subscription Plans should be displayed",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 15,
+            "name": "Bahrain Subscriptions Should have types",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "Navigate to Subscriptions link",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "Navigate to the link",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 18,
+        "name": "Validate the type of Subscription for Kuwait country",
+        "description": "",
+        "id": "validating-subscriptions-type-\u0026-price-and-currency-for-all-countries-(sa-/-kuwait-and-baharin);validate-the-type-of-subscription-for-kuwait-country",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 19,
+            "name": "the user selects the Kuwait country",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 20,
+            "name": "Subscription Plans should be displayed",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 21,
+            "name": "Kuwait Subscriptions Should have types",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "Navigate to Subscriptions link",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "Navigate to the link",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 24,
+        "name": "Validate the Prices of Subscription for Saudi  country",
+        "description": "",
+        "id": "validating-subscriptions-type-\u0026-price-and-currency-for-all-countries-(sa-/-kuwait-and-baharin);validate-the-prices-of-subscription-for-saudi--country",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 25,
+            "name": "the user selects the Saudi  country",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 26,
+            "name": "Subscription Plans should be displayed",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 27,
+            "name": "Every Subscription Should have price In Saudi",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "Navigate to Subscriptions link",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "Navigate to the link",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 29,
+        "name": "Validate the Prices of Subscription for Bahrain country",
+        "description": "",
+        "id": "validating-subscriptions-type-\u0026-price-and-currency-for-all-countries-(sa-/-kuwait-and-baharin);validate-the-prices-of-subscription-for-bahrain-country",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 30,
+            "name": "the user selects the Bahrain country",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 31,
+            "name": "Subscription Plans should be displayed",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 32,
+            "name": "Every Subscription Should have price In Bahrain Country",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "Navigate to Subscriptions link",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "Navigate to the link",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 34,
+        "name": "Validate the Prices of Subscription for Kuwait country",
+        "description": "",
+        "id": "validating-subscriptions-type-\u0026-price-and-currency-for-all-countries-(sa-/-kuwait-and-baharin);validate-the-prices-of-subscription-for-kuwait-country",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 35,
+            "name": "the user selects the Kuwait country",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 36,
+            "name": "Subscription Plans should be displayed",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 37,
+            "name": "Every Subscription Should have price IN KW",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "Navigate to Subscriptions link",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "Navigate to the link",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 39,
+        "name": "Validate the Currency of Subscription for Saudi country",
+        "description": "",
+        "id": "validating-subscriptions-type-\u0026-price-and-currency-for-all-countries-(sa-/-kuwait-and-baharin);validate-the-currency-of-subscription-for-saudi-country",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 40,
+            "name": "the user selects the Saudi country",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 41,
+            "name": "Subscription Plans should be displayed",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 42,
+            "name": "Currency Should be SAR",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "Navigate to Subscriptions link",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "Navigate to the link",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 44,
+        "name": "Validate the Currency of Subscription for Bahrain country",
+        "description": "",
+        "id": "validating-subscriptions-type-\u0026-price-and-currency-for-all-countries-(sa-/-kuwait-and-baharin);validate-the-currency-of-subscription-for-bahrain-country",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 45,
+            "name": "the user selects the Bahrain country",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 46,
+            "name": "Subscription Plans should be displayed",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 47,
+            "name": "Currency of Bahrain Should be BH",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "Navigate to Subscriptions link",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "Navigate to the link",
+            "match": {},
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 49,
+        "name": "Validate the Currency of Subscription for Kuwait country",
+        "description": "",
+        "id": "validating-subscriptions-type-\u0026-price-and-currency-for-all-countries-(sa-/-kuwait-and-baharin);validate-the-currency-of-subscription-for-kuwait-country",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 50,
+            "name": "the user selects the Kuwait country",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 51,
+            "name": "Subscription Plans should be displayed",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 52,
+            "name": "Currency Should be KW",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Validating Subscriptions Type \u0026 Price and Currency for all Countries (SA / Kuwait and Baharin)",
+    "description": "",
+    "id": "validating-subscriptions-type-\u0026-price-and-currency-for-all-countries-(sa-/-kuwait-and-baharin)",
+    "keyword": "Feature",
+    "uri": "src/main/java/Features/Login.feature",
+    "tags": []
+  }
+]
